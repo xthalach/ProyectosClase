@@ -106,6 +106,7 @@ Enhorabona, has encertat la combinació secreta en 2 intents!!
 
 * */
 
+//CANVI
 
 import java.util.Random;
 import java.util.Scanner;
