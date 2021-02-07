@@ -108,6 +108,7 @@ Enhorabona, has encertat la combinació secreta en 2 intents!!
 
 //CANVI
 
+//  This is a test we're laerning GIT.
 import java.util.Random;
 import java.util.Scanner;
 
